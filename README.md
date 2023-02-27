@@ -1,6 +1,6 @@
 # Sheep_Herder_Game
 
-SHEEP HERDER GAME
+Java Game Zone: SHEEP HERDER GAME
 
 📧 Email: cherry.dominguez36@gmail.com
 
