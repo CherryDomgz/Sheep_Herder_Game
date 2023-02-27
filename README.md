@@ -1,5 +1,9 @@
 # Sheep_Herder_Game
 
+SHEEP HERDER GAME
+
+📧 Email: cherry.dominguez36@gmail.com
+
 📝 INSTRUCTION: 
 Create a game called Sheep Herder. The idea of the game is to herd the sheep
 (find) before the sheep are eaten. Simply put, the user chooses spots in a grid and 
